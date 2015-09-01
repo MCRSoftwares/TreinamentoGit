@@ -7,5 +7,6 @@ Repositório para treinar a utilização do Git & GitHub para a realização do 
 Baixando um repositório para sua máquina:
 
 ```
-git clone <ssh_do_repositorio>
+git clone <ssh_do_repositório>
+cd <nome_do_repositório>
 ```
